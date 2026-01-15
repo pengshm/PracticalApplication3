@@ -112,36 +112,6 @@ For operational use:
   - stable performance
   - fast prediction time
 
----
-
-## Deliverables
-- A clean notebook with:
-  - preprocessing pipeline
-  - baseline and model comparison
-  - evaluation metrics
-  - GridSearchCV tuning function
-- Final results presented in DataFrames for clarity
-
----
-
-## Rubric Checklist (25 points)
-
-### Findings:
-✅ Clearly stated business understanding of the problem.  
-✅ Clean and organized notebook with data cleaning.  
-✅ Correct and concise interpretation of descriptive and inferential statistics.  
-✅ Clearly stated findings in their own section with actionable items highlighted in appropriate language for a nontechnical audience.  
-✅ Next steps and recommendations.  
-
----
-
-## Scoring Rubric Reference
-**5 pts — Excellent**  
-Your submission includes all of the listed components.  
-
-**0 pts — Criterion not met**  
-Your submission includes a few or none of the listed components.  
-
 **Total Points: 25**
 
 ---
